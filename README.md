@@ -30,7 +30,7 @@ Beyond my technical pursuits, I have a wide range of interests:
 
 If you're seeking someone who's deeply engaged in tech and also values creativity and exploration, I'm here! Let's connect and bring our ideas to life.
 
-Feel free to reach out to me through [GitHub](https://github.com/JubayerONROB) or [LinkedIn](www.linkedin.com/in/a-j-a-jubayer-talukder-a601b924b) where we can exchange ideas and collaborate on exciting projects.
+Feel free to reach out to me through [GitHub](https://github.com/JubayerONROB)or [LinkedIn](https://www.linkedin.com/in/a-j-a-jubayer-talukder-a601b924b) where we can exchange ideas and collaborate on exciting projects.
 
 ---
 
