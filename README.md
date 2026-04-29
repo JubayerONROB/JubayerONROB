@@ -14,7 +14,6 @@ I'm currently an undergraduate student in **Electrical and Electronics Engineeri
 - **Data Science**
 
 
-## My Passions
 
 Beyond my technical pursuits, I have a wide range of interests:
 
