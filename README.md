@@ -4,7 +4,7 @@
 
 Greetings!
 
-I'm currently an undergraduate student in **Electrical and Electronics Engineering (EEE)**. Despite the struggles, my passion for technology keeps me motivated. My interests span across several cutting-edge fields:
+I'm a recent graduate in **Electrical and Electronics Engineering (EEE)**. Despite the struggles, my passion for technology keeps me motivated. My interests span across several cutting-edge fields:
 
 - **Artificial Intelligence (AI)**
 - **Machine Learning & Deep Learning (ML-DL)**
